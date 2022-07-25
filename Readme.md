@@ -40,9 +40,9 @@ You must migrate the election smart contract each time your restart ganache.
 
 ## Step 6. Run the Front End Application
     $ cd election
-`$ npm run dev`
+    `$ npm run dev`
     $ cd e-verification
-`$ node index.js`
+    `$ node index.js`
   Visit this URL in your browser: http://localhost:3000
 
 
